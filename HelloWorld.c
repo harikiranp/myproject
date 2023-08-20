@@ -2,6 +2,6 @@
 
  int main()
    { 
-	   printf("Hello world! This is harikiran ")
+	   printf("Hello world! This is harikiran patchigulla ")
 		   return 0;
    }
